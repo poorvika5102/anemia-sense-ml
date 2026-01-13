@@ -32,25 +32,6 @@ This project uses a supervised machine learning model to analyze blood test valu
 
 ---
 
-## 📂 Project Structure
-
-ANEMIA-SENSE-ML/
-│
-├── Flask/
-│ ├── app.py
-│ ├── model.pkl
-│ ├── train_model.py
-│ ├── templates/
-│ │ ├── index.html
-│ │ └── predict.html
-│ └── static/
-│ └── style.css
-│
-└── README.md
-
-
----
-
 ## 🧪 Input Parameters
 
 - Hemoglobin  
